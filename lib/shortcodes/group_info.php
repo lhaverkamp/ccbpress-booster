@@ -9,7 +9,7 @@ function ccbpress_group_info_shortcode( $atts, $content = '' ) {
 		'group_description'		=> 'show',
 		'registration_forms'	=> 'hide',
 		'main_leader'			=> 'show',
-		'email_address'			=> 'hide',
+		'email_address'			=> 'show',
 		'phone_number'			=> 'hide',
 	), $atts );
 	
