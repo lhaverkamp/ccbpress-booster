@@ -1,0 +1,19 @@
+/* Group Info */
+.ccbpress-group-info .ccbpress-group-leader-name { 
+	padding: 1em;
+}
+
+.ccbpress-group-info .ccbpress-group-leader ul {
+    list-style-type: none;
+    padding: 1em;
+}
+
+/* Upcoming Events */
+.ccbpress_upcoming_events {
+	margin: 10px;
+}
+
+.entry-content ul.ccbpress_upcoming_events {
+	padding: 0;
+}
+
