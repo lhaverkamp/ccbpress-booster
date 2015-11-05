@@ -26,7 +26,7 @@ if( !function_exists( 'ccbpress_group_info_shortcode' )) {
 		$group_id = (string) $group['id'];
 		
 		// Get the cached group image
-		//$group->image = $ccbpress_ccb->get_image( $group_id, 'group' );
+		$group->image = $ccbpress_ccb->get_image( $group_id, 'group' );
 		
 		// Get their profile image from their user profile
 		$group_main_leader_profile = ccbpress_get_individual_profile((string)$group->main_leader['id']);
