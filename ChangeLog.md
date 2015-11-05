@@ -8,3 +8,7 @@
 
 - Added some CSS styles that override a few basic styles
 - Added some CSS to ensure that the shortcode looks decent when using the Divi Theme
+
+## [1.0.2] (https://github.com/lhaverkamp/ccbpress-booster/tag/1.0.2)
+
+- Fixed a bug where the image wasn't using the cached copy
