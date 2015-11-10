@@ -12,3 +12,8 @@
 ## [1.0.2] (https://github.com/lhaverkamp/ccbpress-booster/tag/1.0.2)
 
 - Fixed a bug where the image wasn't using the cached copy
+
+## [1.0.3] (https://github.com/lhaverkamp/ccbpress-booster/tag/1.0.3)
+
+- Added override for the `width: 100%;` on the `.ccbpress-group-info .ccbpress-group-image` style.
+
