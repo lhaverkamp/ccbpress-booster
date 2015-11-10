@@ -1,4 +1,8 @@
 /* Group Info */
+.ccbpress-group-info .ccbpress-group-image {
+	width: auto;
+}
+
 .ccbpress-group-info .ccbpress-group-leader-name { 
 	padding: 1em;
 }
