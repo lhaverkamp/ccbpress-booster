@@ -10,7 +10,7 @@
  * Depends: CCBPress
  * Plugin URI: http://bitbucket.org/lhaverkamp/CCBPressBooster
  * Description: Display information from Church Community Builder on your WordPress site.
- * Version: 1.0.0
+ * Version: 1.0.4
  * Author: Laura Haverkamp
  * Author Email: laura@haverkamp.us
  * License:     GPL-2.0+

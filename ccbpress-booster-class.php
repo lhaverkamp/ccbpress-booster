@@ -9,7 +9,7 @@ class CCBPressBooster {
 		add_action( 'wp_enqueue_scripts', array( $this, 'register_plugin_styles' ) );
 		
 		// Check for API Settings
-	    if ( ccbpress_is_api_connected() ) {
+	    if ( function_exists('ccbpress_is_api_connected') && ccbpress_is_api_connected() ) {
 			// Load the shortcodes
 			include_once( plugin_dir_path( __FILE__ ) . 'lib/shortcodes/group_info.php' );
         } else {
